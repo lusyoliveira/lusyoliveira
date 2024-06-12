@@ -4,7 +4,7 @@
 
 - 🤔 Entusiasta de desenvolvendo de software.
 - 🎓 Estudando VB.NET na Alura.
-- 💼 Trabalhando como Analista de Requisitos na Processa.
+- 💼 Trabalhando como Analista de Requisitos.
 - 🌱 Aprendendo mais sobre VB.NET.
 
 ## Minhas Skills
