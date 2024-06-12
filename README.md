@@ -1,16 +1,29 @@
-## Hi there 👋
+![](https://komarev.com/ghpvc/?username=lusyoliveira&color=006bed)
 
-<!--
-**lusyoliveira/lusyoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
 
-Here are some ideas to get you started:
+- 🤔 Entusiasta de desenvolvendo de software.
+- 🎓 Estudando VB.NET na Alura.
+- 💼 Trabalhando como Analista de Requisitos na Processa.
+- 🌱 Aprendendo mais sobre VB.NET.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Minhas Skills
+
+**Aplicações e dados**
+
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-333333?style=flat&logo=visualbasic&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=White)
+<br/>
+
+<a href="https://github.com/lusyoliveira" title="Perfil do Luciene">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lusyoliveira&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-lloosilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=lloosilva)](https://www.linkedin.com/in/lloosilva)
+[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/lusyoliveira)
