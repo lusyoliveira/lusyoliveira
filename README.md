@@ -1,9 +1,8 @@
 ## Sobre mim
 
 - 🤔 Entusiasta de desenvolvendo de software.
-- 🎓 Estudando VB.NET na Alura.
+- 🎓 Estudando Javascript na Alura.
 - 💼 Trabalhando como Analista de Requisitos.
-- 🌱 Aprendendo mais sobre VB.NET.
 
 ![](https://komarev.com/ghpvc/?username=lusyoliveira&color=006bed)
 
