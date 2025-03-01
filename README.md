@@ -1,6 +1,6 @@
 ## Sobre mim
 
-- 🤔 Entusiasta de desenvolvendo de software.
+- 🤔 Entusiasta de programação.
 - 🎓 Estudando Javascript na Alura.
 - 💼 Trabalhando como Analista de Requisitos.
 
