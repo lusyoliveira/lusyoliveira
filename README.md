@@ -1,16 +1,17 @@
-<h1 align="center">hey there 👋</h1>
+<h2 align="left">Olá 👋! Meu nome é Luciene!</h2>
+
+<p align="left">
+  Eu sou do Brasil<br><br>
+  - 🔭 Trabalho com análise de requisitos<br>
+  - 📚 Atualmente estudando Javascript, HTML and CSS...<br>
+</p>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm ... from ....Brazil<br><br>- 🔭 I'm working as a requirements analyst...<br>- 📚 I'm currently learning Javascript, HTML and CSS...<br>- ⚡ In my free time I listen to music and draw...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lusyoliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lusyoliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -40,28 +41,18 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=lusyoliveira&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/lloosilva" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lusyoliveira.lusyoliveira&"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/lusyoliveira/lusyoliveira/output/snake.svg" alt="Snake animation" />
 
 ###
 
-###
 
