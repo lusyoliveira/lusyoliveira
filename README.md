@@ -1,7 +1,6 @@
 <h2 align="left">Olá 👋! Meu nome é Luciene!</h2>
 
 <p align="left">
-  Eu sou do Brasil<br><br>
   - 🔭 Trabalho com análise de requisitos<br>
   - 📚 Atualmente estudando Javascript, HTML and CSS...<br>
 </p>
